@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 35">
+  <defs>
+    <linearGradient id="wingsSilver" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#71706E"/>
+      <stop offset="30%" stop-color="#C0C0C0"/>
+      <stop offset="50%" stop-color="#E8E8E8"/>
+      <stop offset="70%" stop-color="#C0C0C0"/>
+      <stop offset="100%" stop-color="#71706E"/>
+    </linearGradient>
+  </defs>
+  <path d="M50 30 Q30 25 20 20 Q10 15 5 5 Q15 15 25 18 Q35 21 45 25 Z" fill="url(#wingsSilver)" stroke="#71706E" stroke-width="0.5"/>
+  <path d="M50 30 Q70 25 80 20 Q90 15 95 5 Q85 15 75 18 Q65 21 55 25 Z" fill="url(#wingsSilver)" stroke="#71706E" stroke-width="0.5"/>
+</svg>

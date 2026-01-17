@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 20">
+  <defs>
+    <linearGradient id="haloGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#FFFACD" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <path d="M10 15 Q40 0 70 15" stroke="#FFD700" stroke-width="6" fill="none" opacity="0.3"/>
+  <path d="M10 15 Q40 2 70 15" stroke="url(#haloGold)" stroke-width="3" fill="none"/>
+</svg>
